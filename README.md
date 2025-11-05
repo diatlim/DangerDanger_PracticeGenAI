@@ -1,5 +1,5 @@
 
-# Danger for Android CI/CD - Practical (Working Version)
+# Danger for Android CI/CD - Practical 
 
 ## Overview
 
